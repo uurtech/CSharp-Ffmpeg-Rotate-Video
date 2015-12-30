@@ -1,0 +1,12 @@
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\RotatorForm.exe.config
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\RotatorForm.exe
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\RotatorForm.pdb
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\RotatorForm.csprojResolveAssemblyReference.cache
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\RotatorForm.Form1.resources
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\RotatorForm.Properties.Resources.resources
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\RotatorForm.csproj.GenerateResource.Cache
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\RotatorForm.exe
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\RotatorForm.pdb
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\ffmpeg.exe
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\ffplay.exe
+C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\ffprobe.exe
