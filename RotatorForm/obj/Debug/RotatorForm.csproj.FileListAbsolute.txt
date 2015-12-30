@@ -10,3 +10,15 @@ C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\obj\Debug\Rota
 C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\ffmpeg.exe
 C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\ffplay.exe
 C:\Users\Ugur\Source\Repos\SeoToolsDotNet\RotatorForm\RotatorForm\bin\Debug\ffprobe.exe
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\bin\Debug\RotatorForm.exe.config
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\obj\Debug\RotatorForm.exe
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\obj\Debug\RotatorForm.pdb
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\bin\Debug\ffmpeg.exe
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\bin\Debug\ffplay.exe
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\bin\Debug\ffprobe.exe
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\bin\Debug\RotatorForm.exe
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\bin\Debug\RotatorForm.pdb
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\obj\Debug\RotatorForm.csprojResolveAssemblyReference.cache
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\obj\Debug\RotatorForm.Form1.resources
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\obj\Debug\RotatorForm.Properties.Resources.resources
+C:\Users\devpc\Source\Repos\CSharp-Ffmpeg-Rotate-Video\RotatorForm\obj\Debug\RotatorForm.csproj.GenerateResource.Cache
